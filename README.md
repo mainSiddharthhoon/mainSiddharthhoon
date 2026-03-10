@@ -99,18 +99,10 @@ const siddharth = {
 ---
 
 ## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=mainSiddharthhoon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mainSiddharthhoon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mainSiddharthhoon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-
-<!--
-  github-readme-stats: if these appear broken on first load, just refresh —
-  GitHub caches images for 5 min. They always render on second view.
--->
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=mainSiddharthhoon&show_icons=true&theme=tokyonight&border_color=7C3AED&border_radius=12&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&bg_color=0d1117&count_private=true&hide_border=false&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainSiddharthhoon&layout=compact&theme=tokyonight&border_color=7C3AED&border_radius=12&title_color=A78BFA&text_color=ffffff&bg_color=0d1117&hide_border=false&langs_count=8" />
-
-</div>
 
 ---
 
