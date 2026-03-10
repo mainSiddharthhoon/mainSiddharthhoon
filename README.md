@@ -1,6 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on improving my programming and building useful projects<br><br>🤝 I’m looking to collaborate on open-source and AI-based projects<br><br>🧠 I’m looking for help with advanced system design and scalable applications<br><br>🌱 I’m currently learning Data Structures, Algorithms, AI, and backend development<br><br>💬 Ask me about C, programming fundamentals, and problem-solving.<br><br>⚡ Fun fact: I love engineering things and turning ideas into real technology
+I am Siddharth Rohit a passionate Under Graduate Computer Science and Engineering student at Maharaja Sayajirao University of Vadodara with a deep interest in both software and hardware technologies. From programming in C, C++, and Java to exploring how computers, mobiles, and machines work, I love discovering the full spectrum of technology and engineering.
 
+Along with technical learning, I also possess strong visionary business ideas and a drive to create innovative projects. I enjoy brainstorming and working on impactful solutions that can shape the future, combining my engineering mindset with creativity and problem-solving.
+
+I also have the ability to create informative and knowledge-driven content—covering science, history, government systems, factual topics, and motivational storytelling. While I am currently focused on my studies, I see content creation as another way to share ideas, spread awareness, and inspire others.
+
+Inspired by leaders like Jensen Huang, Steve Jobs, Tim Cook, and Elon Musk, I believe in thinking big, innovating fearlessly, and working with purpose. My ultimate dream is to contribute to cutting-edge innovation at NVIDIA, working with brilliant minds and turning bold ideas into reality.
+
+At present, I am sharpening my skills in software development, project building, problem-solving, and engineering fundamentals, while preparing myself to bring my ideas and projects to life and create meaningful impact in the tech world.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/mainSiddharthhoon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mainsiddharthhoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-rohit-9505a7386) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SiddharthRohit5) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/mainSiddharthhoon) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Siddharth Rohit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rsid7484@gmail.com) 
