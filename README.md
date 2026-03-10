@@ -118,8 +118,6 @@ const siddharth = {
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainSiddharthhoon&theme=dark&hide_border=false&layout=compact"/>
-
 </div>
 
 ---
