@@ -113,7 +113,6 @@ const siddharth = {
 
 <h2>📊 GitHub Stats</h2>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mainSiddharthhoon&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
 <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=mainSiddharthhoon&theme=dark&hide_border=false"/>
 
 <br/>
