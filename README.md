@@ -1,30 +1,16 @@
 <div align="center">
 
-<!-- Typing Animation as main header - always works on GitHub -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=80&lines=Hi+there%2C+I'm+Siddharth+%F0%9F%91%8B;CS+%26+Engineering+Student;AI+%26+ML+Enthusiast;Full+Stack+Developer" alt="Header Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=90&lines=Hi+there%2C+I'm+Siddharth+%F0%9F%91%8B;CS+%26+Engineering+Student;AI+%26+ML+Enthusiast;Full+Stack+Developer" alt="Header" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=700&height=40&lines=📍+Maharaja+Sayajirao+University+of+Vadodara;🚀+Building+the+future%2C+one+commit+at+a+time;💡+Turning+ideas+into+practical+solutions" alt="Subtitle Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=4000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=700&height=40&lines=📍+Maharaja+Sayajirao+University+of+Vadodara;🚀+Building+the+future%2C+one+commit+at+a+time;💡+Turning+ideas+into+practical+solutions" alt="Subtitle" />
 
 <br/><br/>
 
-<!-- Social Badges -->
-<a href="https://linkedin.com/in/siddharth-rohit-9505a7386">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29"/>
-</a>
-<a href="https://x.com/SiddharthRohit5">
-  <img src="https://img.shields.io/badge/Twitter-Follow-7C3AED?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0f0c29"/>
-</a>
-<a href="https://instagram.com/mainsiddharthhoo">
-  <img src="https://img.shields.io/badge/Instagram-Follow-7C3AED?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0c29"/>
-</a>
-<a href="mailto:rsid7484@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Say%20Hi!-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29"/>
-</a>
-<a href="https://codepen.io/mainSiddharthhoon">
-  <img src="https://img.shields.io/badge/CodePen-Portfolio-7C3AED?style=for-the-badge&logo=codepen&logoColor=white&labelColor=0f0c29"/>
-</a>
+<a href="https://linkedin.com/in/siddharth-rohit-9505a7386"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29"/></a>
+<a href="https://x.com/SiddharthRohit5"><img src="https://img.shields.io/badge/Twitter-Follow-7C3AED?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0f0c29"/></a>
+<a href="https://instagram.com/mainsiddharthhoo"><img src="https://img.shields.io/badge/Instagram-Follow-7C3AED?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0c29"/></a>
+<a href="mailto:rsid7484@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi!-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29"/></a>
+<a href="https://codepen.io/mainSiddharthhoon"><img src="https://img.shields.io/badge/CodePen-Portfolio-7C3AED?style=for-the-badge&logo=codepen&logoColor=white&labelColor=0f0c29"/></a>
 
 <br/><br/>
 
@@ -107,21 +93,11 @@ const siddharth = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mainSiddharthhoon&show_icons=true&theme=tokyonight&border_color=7C3AED&border_radius=12&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&bg_color=0d1117&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mainSiddharthhoon&theme=tokyonight&border=7C3AED&border_radius=12&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+<img width="49%" src="https://streak-stats.demolab.com?user=mainSiddharthhoon&theme=tokyonight&border=7C3AED&border_radius=12&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 
 <br/><br/>
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainSiddharthhoon&layout=compact&theme=tokyonight&border_color=7C3AED&border_radius=12&title_color=A78BFA&text_color=ffffff&bg_color=0d1117" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Siddharth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mainSiddharthhoon&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&area_color=7C3AED&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
